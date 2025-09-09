@@ -1,9 +1,9 @@
 {
   "general": {
-    "experimentID": "eR8ENvJPgQth",
-    "app_name": "O-ELIDDI",
+    "experimentID": "xvOwiR0QGh2B", 
+    "app_name": "Community College Student Time Use",
     "version": "1.0.0",
-    "author": "John Doe",
+    "author": "Tram Dang",
     "language": "en",
     "instructions": true,
     "primary_redirect_url": "pages/thank-you.html",
